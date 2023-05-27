@@ -3,7 +3,7 @@ package guru.springframework.spring6di;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+@SpringBootTest //test
 class Spring6DiApplicationTests {
 
     @Test
